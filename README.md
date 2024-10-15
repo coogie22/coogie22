@@ -1,3 +1,6 @@
+<div align="center" style="margin-top: 100px;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E0F4FF,50:87CEEB,100:1E90FF&height=100&section=header" />
+</div>
 
 ## Tech Stack 🔨
 
