@@ -1,6 +1,9 @@
-<div align="center" style="margin-top: 100px;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E0F4FF,50:87CEEB,100:1E90FF&height=100&section=header" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E0F4FF,50:87CEEB,100:1E90FF&height=250&section=header&text=&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=30&desc=Frontend%20Developer%20%20&descAlignY=50&descAlign=50&descSize=20&fontAlign=50&stroke=4682B4&strokeWidth=2"/>
 </div>
+
+
+
 
 ## Tech Stack 🔨
 
@@ -29,3 +32,8 @@
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coogie22&layout=compact&hide=Ruby)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<div align="center" style="margin-top: 30px;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E0F4FF,50:87CEEB,100:1E90FF&height=100&section=footer" />
+</div>
